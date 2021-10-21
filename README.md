@@ -12,7 +12,7 @@
 - Tôi tên là **Nguyễn Duy An**
 - Tôi đang là học sinh
 - Date of birth : **29/07/2004**
-- Chiều cao : **1m7**
+- Chiều cao : **1m67**
 - Tính cách : hơi **ngu**, **nhạt**
 - Quê tôi ở **Hà Tĩnh**
 - Hiện tại tôi đang sinh sống ở **Dăk Lăk**
