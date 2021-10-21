@@ -10,7 +10,7 @@
 **Giới thiệu**
 
 - Tôi tên là **Nguyễn Duy An**
-- Tôi đang là học sinh
+- Tôi đang là học sinh **THPT Phan Đình Phùng**
 - Date of birth : **29/07/2004**
 - Chiều cao : **1m67**
 - Tính cách : hơi **ngu**, **nhạt**
