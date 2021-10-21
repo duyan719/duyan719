@@ -7,22 +7,21 @@
 
 **Giới thiệu**
 
-- Tôi tên là **Phạm Văn Diện**
-- Học sinh **THPT**
-- Date of birth : **18/03/2004**
+- Tôi tên là **Nguyễn Duy An**
+- Tôi đang là học sinh
+- Date of birth : **29/07/2004**
 - Chiều cao : **1m7**
 - Tính cách : hơi **ngu**, **nhạt**
-- Tôi hiện tại đang sinh sống tại **An Giang**
+- Tôi hiện tại đang sinh sống tại **Dăk Lăk**
 
 **Sở thích**
 
 - Thích nghe nhạc 
-- Thích ngịch code, tò mò những điều thú vị
+- Thích ngịch code, cài windows và linux để phá, tò mò những điều thú vị
 
 **Thông tin liên lạc**
 
 - Faceebok : **[Nguyễn Duy An](https://www.facebook.com/duyan290724.info/)**
-- Youtube : **[Phạm Văn Diện Official](https://www.youtube.com/channel/UCwHbdvzzEDQ3U_6u4AdqE8w)**
-- Gmail : **[phamvandienofficial@gmail.com](https://gmail.com)**
-- Github : **[D-Jukie](https://github.com/D-Jukie)**
-- Zalo: **[Phạm Văn Diện](0332222817)**
+- Gmail : **[duyan719@gmail.com](https://gmail.com)**
+- Github : **[duyan719](https://github.com/duyan719)**
+- Zalo: **[An Cục Súc](0899396536)**
