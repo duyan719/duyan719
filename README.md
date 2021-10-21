@@ -1,6 +1,5 @@
-//copy từ D-Jukie
-<h1> Xin chào <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h1> 
-Tớ tên là Nguyễn Duy An
+
+<h1> Xin chào Mình tên là Nguyễn Duy An
 
 <p align="center">
 	<a href="https://github.com/d-jukie/Jukie_Dinjoz"><img alt="commits" src="https://img.shields.io/github/commit-activity/m/D-Jukie/jukie_uwu.svg?label=commit&style=flat-square"></a>
@@ -32,4 +31,3 @@ Tớ tên là Nguyễn Duy An
 - ⚡ Gmail : **[phamvandienofficial@gmail.com](https://gmail.com)**
 - ⚡ Github : **[D-Jukie](https://github.com/D-Jukie)**
 - ⚡ Zalo: **[Phạm Văn Diện](0332222817)**
-- ----------------------------------------⚡**Jukie**----------
