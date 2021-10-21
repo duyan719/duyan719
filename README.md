@@ -14,7 +14,8 @@
 - Date of birth : **29/07/2004**
 - Chiều cao : **1m7**
 - Tính cách : hơi **ngu**, **nhạt**
-- Tôi hiện tại đang sinh sống tại **Dăk Lăk**
+- Quê tôi ở **Hà Tĩnh**
+- Hiện tại tôi đang sinh sống ở **Dăk Lăk**
 
 **Sở thích**
 
