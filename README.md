@@ -1,8 +1,8 @@
 
 <h1> Xin chào mình tên là Nguyễn Duy An
-<p align="center">
+align="center"
     <img align="center" alt="GIF" src="https://s10.gifyu.com/images/hutao-money-rain.gif" />
-</p> 
+
 
 
 **Giới thiệu**
