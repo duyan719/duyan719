@@ -21,7 +21,7 @@
 
 **Thông tin liên lạc**
 
-- Faceebok : **[Phạm Văn Diện](https://www.facebook/PhamVanDien.User)**
+- Faceebok : **[Nguyễn Duy An](https://www.facebook.com/duyan290724.info/)**
 - Youtube : **[Phạm Văn Diện Official](https://www.youtube.com/channel/UCwHbdvzzEDQ3U_6u4AdqE8w)**
 - Gmail : **[phamvandienofficial@gmail.com](https://gmail.com)**
 - Github : **[D-Jukie](https://github.com/D-Jukie)**
