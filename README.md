@@ -1,7 +1,7 @@
 
 <h1> Xin chào Mình tên là Nguyễn Duy An
 <p align="center">
-    <img align="center" alt="GIF" src="https://preview.redd.it/xrk6uyi8mpu71.gif?format=mp4&s=8961ffaec4a50617eb90b9df08d3ccde56894557" />
+    <img align="center" alt="GIF" src="https://s10.gifyu.com/images/d6nqc8g-e5d9284d-2fb0-4a73-8a59-666126d27449.gif" />
 </p> 
 
 
