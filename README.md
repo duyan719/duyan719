@@ -19,7 +19,7 @@
 
 **Sở thích**
 
-- Thích nghe nhạc 
+- Thích nghe các loại nhạc nhẹ nhàng
 - Thích ngịch code, cài windows và linux để phá, tò mò những điều thú vị
 
 **Thông tin liên lạc**
