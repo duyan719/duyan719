@@ -1,5 +1,9 @@
 
 <h1> Xin chào Mình tên là Nguyễn Duy An
+<p align="center">
+    <img align="center" alt="GIF" src="https://preview.redd.it/xrk6uyi8mpu71.gif?format=mp4&s=8961ffaec4a50617eb90b9df08d3ccde56894557" />
+</p> 
+
 
 **Giới thiệu**
 
