@@ -19,9 +19,9 @@
 
 **Sở thích**
 
-• Thích đi làm tình nguyện viên, đi này đi kia
-• Thích nghe các loại nhạc nhẹ nhàng
-• Thích ngịch code, cài windows và linux để phá, tò mò những điều thú vị
+- Thích đi làm tình nguyện viên, đi này đi kia
+- Thích nghe các loại nhạc nhẹ nhàng
+- Thích ngịch code, cài windows và linux để phá, tò mò những điều thú vị
 
 **Thông tin liên lạc**
 
