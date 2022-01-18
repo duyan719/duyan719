@@ -13,7 +13,7 @@
 - Tôi đang là học sinh **THPT Phan Đình Phùng**
 - Date of birth : **29/07/2004**
 - Chiều cao : **1m67**
-- Tính cách : hơi **ngu**, **nhạt**
+- Tính cách : Thích đi làm **tình nguyện viên**, **vui vẻ hoà đồng**
 - Quê tôi ở **Hà Tĩnh**
 - Hiện tại tôi đang sinh sống ở **Dăk Lăk**
 
