@@ -10,22 +10,19 @@
 **Giới thiệu**
 
 - Tôi tên là **Nguyễn Duy An**
-- Tôi đang là học sinh **THPT Phan Đình Phùng**
 - Date of birth : **29/07/2004**
-- Chiều cao : **1m67**
-- Tính cách : **vui vẻ hoà đồng**, **hơi nhạt và nhát gái**
-- Quê tôi ở **Hà Tĩnh**
-- Hiện tại tôi đang sinh sống ở **Dăk Lăk**
+- Chiều cao : **1m69**
+- Tính cách : **NULL**
+- Quê **Hà Tĩnh**
+- Sinh Song **Dăk Lăk**
 
 **Sở thích**
 
-- Thích đi làm tình nguyện viên, đi này đi kia
-- Thích nghe các loại nhạc nhẹ nhàng
-- Thích ngịch code, cài windows và linux để phá, tò mò những điều thú vị
+- NULL
 
 **Thông tin liên lạc**
 
-- Faceebok : **[Nguyễn Duy An](https://www.facebook.com/duyan290724.info/)**
+- Faceebok : **[Nguyễn Duy An](https://www.facebook.com/duyan.profile/)**
 - Gmail : **[duyan719@gmail.com](https://gmail.com)**
 - Github : **[duyan719](https://github.com/duyan719)**
-- Zalo: **[An Cục Súc ム](0899396536)**
+- Zalo: **[Nguyen Duy An ム](0368567629)**
